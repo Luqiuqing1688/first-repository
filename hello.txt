@@ -1,3 +1,5 @@
+hello world! hot-fix
+>>>>>>> hot-fix
 hello world!
 hello world!
 hello world!
@@ -16,3 +18,5 @@ good moring
 good moring
 good moring
 moring
+=======
+>>>>>>> hot-fix
