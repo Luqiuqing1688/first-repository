@@ -1,5 +1,4 @@
 hello world! hot-fix
->>>>>>> hot-fix
 hello world!
 hello world!
 hello world!
@@ -18,5 +17,7 @@ good moring
 good moring
 good moring
 moring
-=======
->>>>>>> hot-fix
+今天是2022年7月13日 
+天气：晴
+心情：良好
+我是远程代码库
