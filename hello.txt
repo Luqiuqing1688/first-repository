@@ -3,15 +3,14 @@ hello world!
 hello world!
 hello world!
 hello world!
-<<<<<<< HEAD
+-----------------
 hello git! master-test 
 hello git! hot-fix test
 今天是2022年七月12日 
 天气：晴
 工作状态：一般
 心情：一般
-
-=======
+-----------------
 hello world!
 hello world!
 hello world!
@@ -34,3 +33,5 @@ moring
 中午了~点好外卖了
 我是本地客户端
 又一次更新~:
+----------------------
+远程仓库更新啦~
