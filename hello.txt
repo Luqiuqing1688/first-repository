@@ -19,7 +19,8 @@ good moring
 good moring
 good moring
 good moring
-good moring
+
+df:ood moring
 good moring
 good moring
 good moring
@@ -37,3 +38,4 @@ moring
 远程仓库更新啦~
 ---------------------
 本地仓库也更新啦！！！
+今天是8月6日，二刷git!
