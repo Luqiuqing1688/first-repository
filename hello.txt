@@ -43,3 +43,5 @@ moring
 master test
 hot-fix 分支更新版本
 github push test
+----------------
+github message please native-repository pull
